@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sobay-edu/static/css/main.71f015aa.css",
+    "main.js": "/Sobay-edu/static/js/main.06d57d62.js",
+    "static/js/453.ed3810f9.chunk.js": "/Sobay-edu/static/js/453.ed3810f9.chunk.js",
+    "static/media/sobaylogo.png": "/Sobay-edu/static/media/sobaylogo.840e2c380dda83737a53.png",
+    "index.html": "/Sobay-edu/index.html",
+    "main.71f015aa.css.map": "/Sobay-edu/static/css/main.71f015aa.css.map",
+    "main.06d57d62.js.map": "/Sobay-edu/static/js/main.06d57d62.js.map",
+    "453.ed3810f9.chunk.js.map": "/Sobay-edu/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f015aa.css",
+    "static/js/main.06d57d62.js"
+  ]
+}
